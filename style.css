@@ -11,15 +11,17 @@ body{
 }
 nav {
     text-align: center;
-}
-.project{ 
-    background-color:none;
+} 
+.home,
+.project{
     font-size: 2em;
+    color:black;
 }
 .contact,
 .profile{
     background-color:none;
     font-size: 2em;
+    color:black;
 }
 footer{
     text-align: center;
@@ -48,9 +50,6 @@ h5{
 }
 section{
     color: white;
-    text-align: center;
-}
-body section {
     text-align: center;
 }
 a:hover{
