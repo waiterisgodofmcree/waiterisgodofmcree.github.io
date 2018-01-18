@@ -1,3 +1,2 @@
-# waiterisgodofmcree.github.io
-sam's website
+# sam's website
 url: https://waiterisgodofmcree.github.io

@@ -1,0 +1,88 @@
+h1{
+    font-size: 3em;
+    text-align: center;
+    text-decoration: overline underline ;
+    font-weight: 600;
+    font-family:fantasy;
+    color:#bbbf95;
+}
+body{ 
+    background-image:url("http://cfile22.uf.tistory.com/image/1149AB405121EB532574CE");
+}
+nav {
+    text-align: center;
+}
+.home{ 
+    background-color:none;
+    font-size: 2em;
+}
+.contact,
+.profile{
+    background-color:none;
+    font-size: 2em;
+}
+footer{
+    text-align: center;
+}
+h2{
+    font-size: 2em;
+    text-decoration: none;
+    color :#012172;
+}
+a{
+    text-decoration:none;
+    color:none;
+}
+/* .button{
+    border-style:ridge;
+    border-width:5px;
+    border-color: #0486db;
+    border-radius:10px;
+    background-color:#0486db;
+    padding:5px;
+    text-align:center;
+    display: inline-block;
+} */
+h5{
+    text-align: center;
+}
+section{
+    color: white;
+}
+a:hover{
+    color: blue;
+}
+.span0:hover{
+    color:green;
+}
+.span1:hover{
+    color:red;
+}
+.span2:hover{
+    color:blue;
+}
+.span3:hover{
+    color:yellow;
+}
+.span4:hover{
+    color:orange;
+}
+.span5:hover{
+    color:white;
+}
+.span6:hover{
+    color:green;
+}
+.span7:hover{
+    color:purple;
+}
+.flexbox-container{
+    display:flex;
+    justify-content:center;
+    flex-wrap: wrap;
+    min-height: 100vh;
+    align-content:space-between;
+}
+.flexbox-container>*{
+    flex:1 0 100vw;
+}
