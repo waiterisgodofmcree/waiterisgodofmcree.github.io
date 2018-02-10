@@ -89,3 +89,6 @@ a:hover{
 .flexbox-container>*{
     flex:1 0 100vw;
 }
+#my-canvas {
+    border-style: solid;
+}
