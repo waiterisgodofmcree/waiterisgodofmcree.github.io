@@ -16,6 +16,11 @@ function bottom1(){
     ctx.moveTo(242,982);
     ctx.lineTo(366,762);
     ctx.stroke();
+    ctx.beginPath();
+    ctx.moveTo(311,977);
+    ctx.lineTo(431,767);
+    ctx.stroke();
+    ctx.fillStyle="gray";
 }
 function bottom2(){
     ctx.strokeRect(709,977,103,42);
